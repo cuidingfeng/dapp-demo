@@ -1,0 +1,1572 @@
+[
+  {
+    "text": "天",
+    "level": 1,
+    "tag": "tiān"
+  },
+  {
+    "text": "人",
+    "level": 1,
+    "tag": "rén"
+  },
+  {
+    "text": "我",
+    "level": 1,
+    "tag": "wǒ"
+  },
+  {
+    "text": "一",
+    "level": 1,
+    "tag": "yī"
+  },
+  {
+    "text": "二",
+    "level": 1,
+    "tag": "èr"
+  },
+  {
+    "text": "三",
+    "level": 1,
+    "tag": "sān"
+  },
+  {
+    "text": "四",
+    "level": 1,
+    "tag": "sì"
+  },
+  {
+    "text": "五",
+    "level": 1,
+    "tag": "wǔ"
+  },
+  {
+    "text": "上",
+    "level": 1,
+    "tag": "shàng"
+  },
+  {
+    "text": "下",
+    "level": 1,
+    "tag": "xià"
+  },
+  {
+    "text": "口",
+    "level": 1,
+    "tag": "kǒu"
+  },
+  {
+    "text": "耳",
+    "level": 1,
+    "tag": "ěr"
+  },
+  {
+    "text": "目",
+    "level": 1,
+    "tag": "mù"
+  },
+  {
+    "text": "手",
+    "level": 1,
+    "tag": "shǒu"
+  },
+  {
+    "text": "日",
+    "level": 1,
+    "tag": "rì"
+  },
+  {
+    "text": "月",
+    "level": 1,
+    "tag": "yuè"
+  },
+  {
+    "text": "水",
+    "level": 1,
+    "tag": "shuǐ"
+  },
+  {
+    "text": "火",
+    "level": 1,
+    "tag": "huǒ"
+  },
+  {
+    "text": "山",
+    "level": 1,
+    "tag": "shān"
+  },
+  {
+    "text": "石",
+    "level": 1,
+    "tag": "shí"
+  },
+  {
+    "text": "田",
+    "level": 1,
+    "tag": "tián"
+  },
+  {
+    "text": "禾",
+    "level": 1,
+    "tag": "hé"
+  },
+  {
+    "text": "云",
+    "level": 1,
+    "tag": "yún"
+  },
+  {
+    "text": "雨",
+    "level": 1,
+    "tag": "yǔ"
+  },
+  {
+    "text": "风",
+    "level": 1,
+    "tag": "fēng"
+  },
+  {
+    "text": "花",
+    "level": 1,
+    "tag": "huā"
+  },
+  {
+    "text": "鸟",
+    "level": 1,
+    "tag": "niǎo"
+  },
+  {
+    "text": "虫",
+    "level": 1,
+    "tag": "chóng"
+  },
+  {
+    "text": "六",
+    "level": 1,
+    "tag": "liù"
+  },
+  {
+    "text": "七",
+    "level": 1,
+    "tag": "qī"
+  },
+  {
+    "text": "八",
+    "level": 1,
+    "tag": "bā"
+  },
+  {
+    "text": "九",
+    "level": 1,
+    "tag": "jiǔ"
+  },
+  {
+    "text": "十",
+    "level": 1,
+    "tag": "shí"
+  },
+  {
+    "text": "爸",
+    "level": 1,
+    "tag": "bà"
+  },
+  {
+    "text": "妈",
+    "level": 1,
+    "tag": "mā"
+  },
+  {
+    "text": "马",
+    "level": 1,
+    "tag": "mǎ"
+  },
+  {
+    "text": "土",
+    "level": 1,
+    "tag": "tǔ"
+  },
+  {
+    "text": "不",
+    "level": 1,
+    "tag": "bù"
+  },
+  {
+    "text": "子",
+    "level": 1,
+    "tag": "zǐ"
+  },
+  {
+    "text": "文",
+    "level": 1,
+    "tag": "wén"
+  },
+  {
+    "text": "学",
+    "level": 1,
+    "tag": "xué"
+  },
+  {
+    "text": "国",
+    "level": 1,
+    "tag": "guó"
+  },
+  {
+    "text": "红",
+    "level": 1,
+    "tag": "hóng"
+  },
+  {
+    "text": "点",
+    "level": 1,
+    "tag": "diǎn"
+  },
+  {
+    "text": "出",
+    "level": 1,
+    "tag": "chū"
+  },
+  {
+    "text": "己",
+    "level": 1,
+    "tag": "jǐ"
+  },
+  {
+    "text": "自",
+    "level": 1,
+    "tag": "zì"
+  },
+  {
+    "text": "又",
+    "level": 1,
+    "tag": "yòu"
+  },
+  {
+    "text": "几",
+    "level": 1,
+    "tag": "jī"
+  },
+  {
+    "text": "牙",
+    "level": 1,
+    "tag": "yá"
+  },
+  {
+    "text": "生",
+    "level": 1,
+    "tag": "shēng"
+  },
+  {
+    "text": "崔",
+    "level": 1,
+    "tag": "cuī"
+  },
+  {
+    "text": "宜",
+    "level": 1,
+    "tag": "yí"
+  },
+  {
+    "text": "小",
+    "level": 1,
+    "tag": "xiǎo"
+  },
+  {
+    "text": "雪",
+    "level": 1,
+    "tag": "xuě"
+  },
+  {
+    "text": "儿",
+    "level": 1,
+    "tag": "ér"
+  },
+  {
+    "text": "刀",
+    "level": 1,
+    "tag": "dāo"
+  },
+  {
+    "text": "早",
+    "level": 1,
+    "tag": "zǎo"
+  },
+  {
+    "text": "书",
+    "level": 1,
+    "tag": "shū"
+  },
+  {
+    "text": "尘",
+    "level": 1,
+    "tag": "chén"
+  },
+  {
+    "text": "心",
+    "level": 1,
+    "tag": "xīn"
+  },
+  {
+    "text": "木",
+    "level": 1,
+    "tag": "mù"
+  },
+  {
+    "text": "林",
+    "level": 1,
+    "tag": "lín"
+  },
+  {
+    "text": "森",
+    "level": 1,
+    "tag": "sēn"
+  },
+  {
+    "text": "中",
+    "level": 1,
+    "tag": "zhōng"
+  },
+  {
+    "text": "工",
+    "level": 1,
+    "tag": "gōng"
+  },
+  {
+    "text": "琳",
+    "level": 1,
+    "tag": "lín"
+  },
+  {
+    "text": "然",
+    "level": 1,
+    "tag": "rán"
+  },
+  {
+    "text": "白",
+    "level": 1,
+    "tag": "bái"
+  },
+  {
+    "text": "草",
+    "level": 1,
+    "tag": "cǎo"
+  },
+  {
+    "text": "了",
+    "level": 1,
+    "tag": "liǎo"
+  },
+  {
+    "text": "叶",
+    "level": 1,
+    "tag": "yè"
+  },
+  {
+    "text": "大",
+    "level": 1,
+    "tag": "dà"
+  },
+  {
+    "text": "飞",
+    "level": 1,
+    "tag": "fēi"
+  },
+  {
+    "text": "个",
+    "level": 1,
+    "tag": "gè"
+  },
+  {
+    "text": "头",
+    "level": 1,
+    "tag": "tóu"
+  },
+  {
+    "text": "里",
+    "level": 1,
+    "tag": "lǐ"
+  },
+  {
+    "text": "星",
+    "level": 1,
+    "tag": "xīng"
+  },
+  {
+    "text": "可",
+    "level": 1,
+    "tag": "kě"
+  },
+  {
+    "text": "东",
+    "level": 1,
+    "tag": "dōng"
+  },
+  {
+    "text": "西",
+    "level": 1,
+    "tag": "xī"
+  },
+  {
+    "text": "鱼",
+    "level": 1,
+    "tag": "yú"
+  },
+  {
+    "text": "女",
+    "level": 1,
+    "tag": "nǚ"
+  },
+  {
+    "text": "开",
+    "level": 1,
+    "tag": "kāi"
+  },
+  {
+    "text": "正",
+    "level": 1,
+    "tag": "zhèng"
+  },
+  {
+    "text": "多",
+    "level": 1,
+    "tag": "duō"
+  },
+  {
+    "text": "少",
+    "level": 1,
+    "tag": "shǎo"
+  },
+  {
+    "text": "牛",
+    "level": 1,
+    "tag": "niú"
+  },
+  {
+    "text": "只",
+    "level": 1,
+    "tag": "zhī"
+  },
+  {
+    "text": "果",
+    "level": 1,
+    "tag": "guǒ"
+  },
+  {
+    "text": "地",
+    "level": 2,
+    "tag": "dì"
+  },
+  {
+    "text": "你",
+    "level": 2,
+    "tag": "nǐ"
+  },
+  {
+    "text": "他",
+    "level": 2,
+    "tag": "tā"
+  },
+  {
+    "text": "她",
+    "level": 2,
+    "tag": "tā"
+  },
+  {
+    "text": "足",
+    "level": 2,
+    "tag": "zú"
+  },
+  {
+    "text": "站",
+    "level": 2,
+    "tag": "zhàn"
+  },
+  {
+    "text": "坐",
+    "level": 2,
+    "tag": "zuò"
+  },
+  {
+    "text": "对",
+    "level": 2,
+    "tag": "duì"
+  },
+  {
+    "text": "画",
+    "level": 2,
+    "tag": "huà"
+  },
+  {
+    "text": "打",
+    "level": 2,
+    "tag": "dǎ"
+  },
+  {
+    "text": "棋",
+    "level": 2,
+    "tag": "qí"
+  },
+  {
+    "text": "鸡",
+    "level": 2,
+    "tag": "jī"
+  },
+  {
+    "text": "字",
+    "level": 2,
+    "tag": "zì"
+  },
+  {
+    "text": "词",
+    "level": 2,
+    "tag": "cí"
+  },
+  {
+    "text": "语",
+    "level": 2,
+    "tag": "yǔ"
+  },
+  {
+    "text": "句",
+    "level": 2,
+    "tag": "jù"
+  },
+  {
+    "text": "桌",
+    "level": 2,
+    "tag": "zhuō"
+  },
+  {
+    "text": "纸",
+    "level": 2,
+    "tag": "zhǐ"
+  },
+  {
+    "text": "数",
+    "level": 2,
+    "tag": "shù"
+  },
+  {
+    "text": "音",
+    "level": 2,
+    "tag": "yīn"
+  },
+  {
+    "text": "乐",
+    "level": 2,
+    "tag": "lè"
+  },
+  {
+    "text": "妹",
+    "level": 2,
+    "tag": "mèi"
+  },
+  {
+    "text": "奶",
+    "level": 2,
+    "tag": "nǎi"
+  },
+  {
+    "text": "桥",
+    "level": 2,
+    "tag": "qiáo"
+  },
+  {
+    "text": "台",
+    "level": 2,
+    "tag": "tái"
+  },
+  {
+    "text": "家",
+    "level": 2,
+    "tag": "jiā"
+  },
+  {
+    "text": "是",
+    "level": 2,
+    "tag": "shì"
+  },
+  {
+    "text": "车",
+    "level": 2,
+    "tag": "chē"
+  },
+  {
+    "text": "路",
+    "level": 2,
+    "tag": "lù"
+  },
+  {
+    "text": "灯",
+    "level": 2,
+    "tag": "dēng"
+  },
+  {
+    "text": "走",
+    "level": 2,
+    "tag": "zǒu"
+  },
+  {
+    "text": "秋",
+    "level": 2,
+    "tag": "qiū"
+  },
+  {
+    "text": "气",
+    "level": 2,
+    "tag": "qì"
+  },
+  {
+    "text": "树",
+    "level": 2,
+    "tag": "shù"
+  },
+  {
+    "text": "片",
+    "level": 2,
+    "tag": "piàn"
+  },
+  {
+    "text": "会",
+    "level": 2,
+    "tag": "huì"
+  },
+  {
+    "text": "的",
+    "level": 2,
+    "tag": "dí"
+  },
+  {
+    "text": "船",
+    "level": 2,
+    "tag": "chuán"
+  },
+  {
+    "text": "两",
+    "level": 2,
+    "tag": "liǎng"
+  },
+  {
+    "text": "在",
+    "level": 2,
+    "tag": "zài"
+  },
+  {
+    "text": "看",
+    "level": 2,
+    "tag": "kàn"
+  },
+  {
+    "text": "见",
+    "level": 2,
+    "tag": "jiàn"
+  },
+  {
+    "text": "闪",
+    "level": 2,
+    "tag": "shǎn"
+  },
+  {
+    "text": "江",
+    "level": 2,
+    "tag": "jiāng"
+  },
+  {
+    "text": "南",
+    "level": 2,
+    "tag": "nán"
+  },
+  {
+    "text": "采",
+    "level": 2,
+    "tag": "cǎi"
+  },
+  {
+    "text": "莲",
+    "level": 2,
+    "tag": "lián"
+  },
+  {
+    "text": "北",
+    "level": 2,
+    "tag": "běi"
+  },
+  {
+    "text": "尖",
+    "level": 2,
+    "tag": "jiān"
+  },
+  {
+    "text": "说",
+    "level": 2,
+    "tag": "shuō"
+  },
+  {
+    "text": "春",
+    "level": 2,
+    "tag": "chūn"
+  },
+  {
+    "text": "青",
+    "level": 2,
+    "tag": "qīng"
+  },
+  {
+    "text": "蛙",
+    "level": 2,
+    "tag": "wā"
+  },
+  {
+    "text": "夏",
+    "level": 2,
+    "tag": "xià"
+  },
+  {
+    "text": "弯",
+    "level": 2,
+    "tag": "wān"
+  },
+  {
+    "text": "皮",
+    "level": 2,
+    "tag": "pí"
+  },
+  {
+    "text": "地",
+    "level": 2,
+    "tag": "dì"
+  },
+  {
+    "text": "就",
+    "level": 2,
+    "tag": "jiù"
+  },
+  {
+    "text": "冬",
+    "level": 2,
+    "tag": "dōng"
+  },
+  {
+    "text": "男",
+    "level": 2,
+    "tag": "nán"
+  },
+  {
+    "text": "关",
+    "level": 2,
+    "tag": "guān"
+  },
+  {
+    "text": "反",
+    "level": 2,
+    "tag": "fǎn"
+  },
+  {
+    "text": "远",
+    "level": 2,
+    "tag": "yuǎn"
+  },
+  {
+    "text": "有",
+    "level": 2,
+    "tag": "yǒu"
+  },
+  {
+    "text": "色",
+    "level": 2,
+    "tag": "sè"
+  },
+  {
+    "text": "近",
+    "level": 2,
+    "tag": "jìn"
+  },
+  {
+    "text": "听",
+    "level": 2,
+    "tag": "tīng"
+  },
+  {
+    "text": "无",
+    "level": 2,
+    "tag": "wú"
+  },
+  {
+    "text": "声",
+    "level": 2,
+    "tag": "shēng"
+  },
+  {
+    "text": "去",
+    "level": 2,
+    "tag": "qù"
+  },
+  {
+    "text": "还",
+    "level": 2,
+    "tag": "huán"
+  },
+  {
+    "text": "来",
+    "level": 2,
+    "tag": "lái"
+  },
+  {
+    "text": "黄",
+    "level": 2,
+    "tag": "huáng"
+  },
+  {
+    "text": "猫",
+    "level": 2,
+    "tag": "māo"
+  },
+  {
+    "text": "边",
+    "level": 2,
+    "tag": "biān"
+  },
+  {
+    "text": "鸭",
+    "level": 2,
+    "tag": "yā"
+  },
+  {
+    "text": "苹",
+    "level": 2,
+    "tag": "píng"
+  },
+  {
+    "text": "杏",
+    "level": 2,
+    "tag": "xìng"
+  },
+  {
+    "text": "桃",
+    "level": 2,
+    "tag": "táo"
+  },
+  {
+    "text": "包",
+    "level": 2,
+    "tag": "bāo"
+  },
+  {
+    "text": "尺",
+    "level": 2,
+    "tag": "chǐ"
+  },
+  {
+    "text": "作",
+    "level": 2,
+    "tag": "zuò"
+  },
+  {
+    "text": "业",
+    "level": 2,
+    "tag": "yè"
+  },
+  {
+    "text": "本",
+    "level": 2,
+    "tag": "běn"
+  },
+  {
+    "text": "笔",
+    "level": 2,
+    "tag": "bǐ"
+  },
+  {
+    "text": "课",
+    "level": 2,
+    "tag": "kè"
+  },
+  {
+    "text": "校",
+    "level": 2,
+    "tag": "xiào"
+  },
+  {
+    "text": "明",
+    "level": 2,
+    "tag": "míng"
+  },
+  {
+    "text": "力",
+    "level": 2,
+    "tag": "lì"
+  },
+  {
+    "text": "从",
+    "level": 2,
+    "tag": "cóng"
+  },
+  {
+    "text": "众",
+    "level": 2,
+    "tag": "zhòng"
+  },
+  {
+    "text": "双",
+    "level": 2,
+    "tag": "shuāng"
+  },
+  {
+    "text": "条",
+    "level": 2,
+    "tag": "tiáo"
+  },
+  {
+    "text": "顶",
+    "level": 2,
+    "tag": "dǐng"
+  },
+  {
+    "text": "峰",
+    "level": 2,
+    "tag": "fēng"
+  },
+  {
+    "text": "赵",
+    "level": 2,
+    "tag": "zhào"
+  },
+  {
+    "text": "新",
+    "level": 2,
+    "tag": "xīn"
+  },
+  {
+    "text": "爱",
+    "level": 2,
+    "tag": "ài"
+  },
+  {
+    "text": "升",
+    "level": 2,
+    "tag": "shēng"
+  },
+  {
+    "text": "旗",
+    "level": 2,
+    "tag": "qí"
+  },
+  {
+    "text": "歌",
+    "level": 2,
+    "tag": "gē"
+  },
+  {
+    "text": "起",
+    "level": 2,
+    "tag": "qǐ"
+  },
+  {
+    "text": "么",
+    "level": 2,
+    "tag": "mó"
+  },
+  {
+    "text": "美",
+    "level": 2,
+    "tag": "měi"
+  },
+  {
+    "text": "丽",
+    "level": 2,
+    "tag": "lì"
+  },
+  {
+    "text": "立",
+    "level": 2,
+    "tag": "lì"
+  },
+  {
+    "text": "午",
+    "level": 2,
+    "tag": "wǔ"
+  },
+  {
+    "text": "晚",
+    "level": 2,
+    "tag": "wǎn"
+  },
+  {
+    "text": "昨",
+    "level": 2,
+    "tag": "zuó"
+  },
+  {
+    "text": "今",
+    "level": 2,
+    "tag": "jīn"
+  },
+  {
+    "text": "年",
+    "level": 2,
+    "tag": "nián"
+  },
+  {
+    "text": "影",
+    "level": 2,
+    "tag": "yǐng"
+  },
+  {
+    "text": "前",
+    "level": 2,
+    "tag": "qián"
+  },
+  {
+    "text": "后",
+    "level": 2,
+    "tag": "hòu"
+  },
+  {
+    "text": "黑",
+    "level": 2,
+    "tag": "hēi"
+  },
+  {
+    "text": "狗",
+    "level": 2,
+    "tag": "gǒu"
+  },
+  {
+    "text": "左",
+    "level": 2,
+    "tag": "zuǒ"
+  },
+  {
+    "text": "右",
+    "level": 2,
+    "tag": "yòu"
+  },
+  {
+    "text": "它",
+    "level": 2,
+    "tag": "tā"
+  },
+  {
+    "text": "好",
+    "level": 2,
+    "tag": "hǎo"
+  },
+  {
+    "text": "朋",
+    "level": 2,
+    "tag": "péng"
+  },
+  {
+    "text": "友",
+    "level": 2,
+    "tag": "yǒu"
+  },
+  {
+    "text": "比",
+    "level": 2,
+    "tag": "bǐ"
+  },
+  {
+    "text": "尾",
+    "level": 2,
+    "tag": "wěi"
+  },
+  {
+    "text": "巴",
+    "level": 2,
+    "tag": "bā"
+  },
+  {
+    "text": "谁",
+    "level": 2,
+    "tag": "shuí"
+  },
+  {
+    "text": "长",
+    "level": 2,
+    "tag": "cháng"
+  },
+  {
+    "text": "短",
+    "level": 2,
+    "tag": "duǎn"
+  },
+  {
+    "text": "把",
+    "level": 2,
+    "tag": "bǎ"
+  },
+  {
+    "text": "伞",
+    "level": 2,
+    "tag": "sǎn"
+  },
+  {
+    "text": "兔",
+    "level": 2,
+    "tag": "tù"
+  },
+  {
+    "text": "最",
+    "level": 2,
+    "tag": "zuì"
+  },
+  {
+    "text": "公",
+    "level": 2,
+    "tag": "gōng"
+  },
+  {
+    "text": "写",
+    "level": 2,
+    "tag": "xiě"
+  },
+  {
+    "text": "诗",
+    "level": 2,
+    "tag": "shī"
+  },
+  {
+    "text": "要",
+    "level": 2,
+    "tag": "yào"
+  },
+  {
+    "text": "过",
+    "level": 2,
+    "tag": "guò"
+  },
+  {
+    "text": "给",
+    "level": 2,
+    "tag": "gěi"
+  },
+  {
+    "text": "当",
+    "level": 2,
+    "tag": "dāng"
+  },
+  {
+    "text": "串",
+    "level": 2,
+    "tag": "chuàn"
+  },
+  {
+    "text": "们",
+    "level": 2,
+    "tag": "mén"
+  },
+  {
+    "text": "以",
+    "level": 2,
+    "tag": "yǐ"
+  },
+  {
+    "text": "成",
+    "level": 2,
+    "tag": "chéng"
+  },
+  {
+    "text": "数",
+    "level": 2,
+    "tag": "shù"
+  },
+  {
+    "text": "彩",
+    "level": 2,
+    "tag": "cǎi"
+  },
+  {
+    "text": "半",
+    "level": 2,
+    "tag": "bàn"
+  },
+  {
+    "text": "空",
+    "level": 2,
+    "tag": "kōng"
+  },
+  {
+    "text": "问",
+    "level": 2,
+    "tag": "wèn"
+  },
+  {
+    "text": "到",
+    "level": 2,
+    "tag": "dào"
+  },
+  {
+    "text": "方",
+    "level": 2,
+    "tag": "fāng"
+  },
+  {
+    "text": "没",
+    "level": 2,
+    "tag": "méi"
+  },
+  {
+    "text": "更",
+    "level": 2,
+    "tag": "gēng"
+  },
+  {
+    "text": "绿",
+    "level": 2,
+    "tag": "lǜ"
+  },
+  {
+    "text": "长",
+    "level": 2,
+    "tag": "cháng"
+  },
+  {
+    "text": "睡",
+    "level": 2,
+    "tag": "shuì"
+  },
+  {
+    "text": "那",
+    "level": 2,
+    "tag": "nà"
+  },
+  {
+    "text": "海",
+    "level": 2,
+    "tag": "hǎi"
+  },
+  {
+    "text": "真",
+    "level": 2,
+    "tag": "zhēn"
+  },
+  {
+    "text": "老",
+    "level": 2,
+    "tag": "lǎo"
+  },
+  {
+    "text": "师",
+    "level": 2,
+    "tag": "shī"
+  },
+  {
+    "text": "吗",
+    "level": 2,
+    "tag": "má"
+  },
+  {
+    "text": "同",
+    "level": 2,
+    "tag": "tóng"
+  },
+  {
+    "text": "什",
+    "level": 2,
+    "tag": "shí"
+  },
+  {
+    "text": "才",
+    "level": 2,
+    "tag": "cái"
+  },
+  {
+    "text": "亮",
+    "level": 2,
+    "tag": "liàng"
+  },
+  {
+    "text": "时",
+    "level": 2,
+    "tag": "shí"
+  },
+  {
+    "text": "候",
+    "level": 2,
+    "tag": "hòu"
+  },
+  {
+    "text": "觉",
+    "level": 2,
+    "tag": "jué"
+  },
+  {
+    "text": "得",
+    "level": 2,
+    "tag": "dé"
+  },
+  {
+    "text": "很",
+    "level": 2,
+    "tag": "hěn"
+  },
+  {
+    "text": "穿",
+    "level": 2,
+    "tag": "chuān"
+  },
+  {
+    "text": "衣",
+    "level": 2,
+    "tag": "yī"
+  },
+  {
+    "text": "服",
+    "level": 2,
+    "tag": "fú"
+  },
+  {
+    "text": "快",
+    "level": 2,
+    "tag": "kuài"
+  },
+  {
+    "text": "蓝",
+    "level": 2,
+    "tag": "lán"
+  },
+  {
+    "text": "笑",
+    "level": 2,
+    "tag": "xiào"
+  },
+  {
+    "text": "着",
+    "level": 2,
+    "tag": "zhuó"
+  },
+  {
+    "text": "向",
+    "level": 2,
+    "tag": "xiàng"
+  },
+  {
+    "text": "和",
+    "level": 2,
+    "tag": "hé"
+  },
+  {
+    "text": "贝",
+    "level": 2,
+    "tag": "bèi"
+  },
+  {
+    "text": "娃",
+    "level": 2,
+    "tag": "wá"
+  },
+  {
+    "text": "挂",
+    "level": 2,
+    "tag": "guà"
+  },
+  {
+    "text": "活",
+    "level": 2,
+    "tag": "huó"
+  },
+  {
+    "text": "金",
+    "level": 2,
+    "tag": "jīn"
+  },
+  {
+    "text": "哥",
+    "level": 2,
+    "tag": "gē"
+  },
+  {
+    "text": "姐",
+    "level": 2,
+    "tag": "jiě"
+  },
+  {
+    "text": "弟",
+    "level": 2,
+    "tag": "dì"
+  },
+  {
+    "text": "叔",
+    "level": 2,
+    "tag": "shū"
+  },
+  {
+    "text": "爷",
+    "level": 2,
+    "tag": "yé"
+  },
+  {
+    "text": "群",
+    "level": 2,
+    "tag": "qún"
+  },
+  {
+    "text": "竹",
+    "level": 2,
+    "tag": "zhú"
+  },
+  {
+    "text": "用",
+    "level": 2,
+    "tag": "yòng"
+  },
+  {
+    "text": "步",
+    "level": 2,
+    "tag": "bù"
+  },
+  {
+    "text": "为",
+    "level": 2,
+    "tag": "wéi"
+  },
+  {
+    "text": "参",
+    "level": 2,
+    "tag": "cān"
+  },
+  {
+    "text": "加",
+    "level": 2,
+    "tag": "jiā"
+  },
+  {
+    "text": "洞",
+    "level": 2,
+    "tag": "dòng"
+  },
+  {
+    "text": "着",
+    "level": 2,
+    "tag": "zhuó"
+  },
+  {
+    "text": "乌",
+    "level": 2,
+    "tag": "wū"
+  },
+  {
+    "text": "鸦",
+    "level": 2,
+    "tag": "yā"
+  },
+  {
+    "text": "处",
+    "level": 2,
+    "tag": "chǔ"
+  },
+  {
+    "text": "找",
+    "level": 2,
+    "tag": "zhǎo"
+  },
+  {
+    "text": "办",
+    "level": 2,
+    "tag": "bàn"
+  },
+  {
+    "text": "旁",
+    "level": 2,
+    "tag": "páng"
+  },
+  {
+    "text": "许",
+    "level": 2,
+    "tag": "xǔ"
+  },
+  {
+    "text": "法",
+    "level": 2,
+    "tag": "fǎ"
+  },
+  {
+    "text": "放",
+    "level": 2,
+    "tag": "fàng"
+  },
+  {
+    "text": "进",
+    "level": 2,
+    "tag": "jìn"
+  },
+  {
+    "text": "高",
+    "level": 2,
+    "tag": "gāo"
+  },
+  {
+    "text": "住",
+    "level": 2,
+    "tag": "zhù"
+  },
+  {
+    "text": "孩",
+    "level": 2,
+    "tag": "hái"
+  },
+  {
+    "text": "玩",
+    "level": 2,
+    "tag": "wán"
+  },
+  {
+    "text": "吧",
+    "level": 2,
+    "tag": "bā"
+  },
+  {
+    "text": "发",
+    "level": 2,
+    "tag": "fā"
+  },
+  {
+    "text": "芽",
+    "level": 2,
+    "tag": "yá"
+  },
+  {
+    "text": "爬",
+    "level": 2,
+    "tag": "pá"
+  },
+  {
+    "text": "呀",
+    "level": 2,
+    "tag": "yā"
+  },
+  {
+    "text": "久",
+    "level": 2,
+    "tag": "jiǔ"
+  },
+  {
+    "text": "回",
+    "level": 2,
+    "tag": "huí"
+  },
+  {
+    "text": "全",
+    "level": 2,
+    "tag": "quán"
+  },
+  {
+    "text": "变",
+    "level": 2,
+    "tag": "biàn"
+  },
+  {
+    "text": "厂",
+    "level": 2,
+    "tag": "chǎng"
+  },
+  {
+    "text": "医",
+    "level": 2,
+    "tag": "yī"
+  },
+  {
+    "text": "院",
+    "level": 2,
+    "tag": "yuàn"
+  }
+]
