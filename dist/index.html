@@ -1,38 +1,46 @@
 <!DOCTYPE html>
 <html lang="zh">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>拆10运算</title>
     <style>
-        body{
+        body {
             padding: 0;
             margin: 0;
         }
-        .flex{
+
+        .flex {
             display: flex;
             text-align: center;
             height: 20vh;
             line-height: 20vh;
             font-size: 10vw;
         }
-        .num1{
+
+        .num1 {
             flex: 2;
         }
+
         .fh {
             flex: 1;
         }
-        .right{
+
+        .right {
             line-height: 10vh;
             height: 10vh;
             text-align: center;
             font-size: 15vw;
             color: darkgreen;
         }
-        .all{
+
+        .all {
             padding-left: 6vw;
         }
-        .num, .next {
+
+        .num,
+        .next {
             display: inline-block;
             width: 16vw;
             height: 16vw;
@@ -45,24 +53,30 @@
             margin-bottom: 5vw;
             color: cornsilk;
         }
+
         .next {
             background: dimgray;
         }
+
         .nav {
             line-height: 8vw;
             font-size: 4vw;
             text-align: center;
             background: deeppink;
         }
-        .nav span{
+
+        .nav span {
             font-weight: bold;
         }
+
         .nav #total {
             color: blue;
         }
+
         .nav #right {
-            color:darkgreen;
+            color: darkgreen;
         }
+
         .copyright {
             position: fixed;
             width: 100vw;
@@ -72,10 +86,16 @@
             bottom: 5vh;
             left: 0;
         }
+
+        .copyright a {
+            margin-left: 20px;
+        }
     </style>
 </head>
+
 <body>
-    <div class="nav">共 <span id="total">0</span> 题，做对 <span id="right">0</span> 题，用时 <span id="time">00:00:00</span></div>
+    <div class="nav">共 <span id="total">0</span> 题，做对 <span id="right">0</span> 题，用时 <span id="time">00:00:00</span>
+    </div>
     <div class="flex" id="ti">
         <!-- <span class="num1">6</span>
         <span class="fh">+</span>
@@ -98,107 +118,110 @@
         <span class="num">10</span>
         <span class="next">→</span>
     </div>
-    <div class="copyright">@崔琳宜 2020</div>
-<script>
-(function(){
-    var total = document.getElementById("total"),
-    right = document.getElementById("right"),
-    time = document.getElementById("time"),
-    ti = document.getElementById("ti"),
-    jg = document.getElementById("jg"),
-    nums = document.getElementById("nums");
-    var n2;
-    var createone = function (){
-        var _total = total.innerText || 0;
-        _total = Number(_total) + 1;
-        total.innerText = _total;
-        var n1 = Math.floor(Math.random() * 11);
-        n2 = 10 - n1;
-        var jia = Math.random() >= 0.5; // 加法
-        var b1 = Math.random() >= 0.5; // 问号在第二个位置
-        var b2 = Math.random() >= 0.5; // 结果在右边
-        var str = '';
-        if (jia) {
-            let s1 = "";
-            if (b1) {
-                s1 = `<span class="num1">${n1}</span>
+    <div class="copyright">@崔琳宜（c01.link） 2021 -
+        <a href="./cn.html">识字练习</a>
+    </div>
+    <script>
+        (function () {
+            var total = document.getElementById("total"),
+                right = document.getElementById("right"),
+                time = document.getElementById("time"),
+                ti = document.getElementById("ti"),
+                jg = document.getElementById("jg"),
+                nums = document.getElementById("nums");
+            var n2;
+            var createone = function () {
+                var _total = total.innerText || 0;
+                _total = Number(_total) + 1;
+                total.innerText = _total;
+                var n1 = Math.floor(Math.random() * 11);
+                n2 = 10 - n1;
+                var jia = Math.random() >= 0.5; // 加法
+                var b1 = Math.random() >= 0.5; // 问号在第二个位置
+                var b2 = Math.random() >= 0.5; // 结果在右边
+                var str = '';
+                if (jia) {
+                    let s1 = "";
+                    if (b1) {
+                        s1 = `<span class="num1">${n1}</span>
                     <span class="fh">+</span>
                     <span class="num1">( ? )</span>`;
-            }else {
-                s1 = `<span class="num1">( ? )</span>
+                    } else {
+                        s1 = `<span class="num1">( ? )</span>
                     <span class="fh">+</span>
                     <span class="num1">${n1}</span>`;
-            }
-            if (b2) {
-                str = `${s1}<span class="fh">=</span>
+                    }
+                    if (b2) {
+                        str = `${s1}<span class="fh">=</span>
                         <span class="num1">10</span>`
-            }else {
-                str = `<span class="num1">10</span>
+                    } else {
+                        str = `<span class="num1">10</span>
                         <span class="fh">=</span>${s1}`
-            }
-        }else {
-            if (b1) {
-                s1 = `<span class="num1">10</span>
+                    }
+                } else {
+                    if (b1) {
+                        s1 = `<span class="num1">10</span>
                     <span class="fh">-</span>
                     <span class="num1">${n1}</span>`;
-                if (b2){
-                    str = `${s1}<span class="fh">=</span>
+                        if (b2) {
+                            str = `${s1}<span class="fh">=</span>
                         <span class="num1">( ? )</span>`
-                }else{
-                    str = `<span class="num1">( ? )</span>
+                        } else {
+                            str = `<span class="num1">( ? )</span>
                         <span class="fh">=</span>${s1}`
-                }
-            }else {
-                s1 = `<span class="num1">10</span>
+                        }
+                    } else {
+                        s1 = `<span class="num1">10</span>
                     <span class="fh">-</span>
                     <span class="num1">( ? )</span>`;
-                if (b2){
-                    str = `${s1}<span class="fh">=</span>
+                        if (b2) {
+                            str = `${s1}<span class="fh">=</span>
                         <span class="num1">${n1}</span>`
-                }else{
-                    str = `<span class="num1">${n1}</span>
+                        } else {
+                            str = `<span class="num1">${n1}</span>
                         <span class="fh">=</span>${s1}`
+                        }
+                    }
                 }
+                ti.innerHTML = str;
             }
-        }
-        ti.innerHTML = str;
-    }
-    createone();
-    nums.querySelectorAll('.num').forEach(ele => {
-        ele.addEventListener('click', function() {
-            if (n2 == parseInt(this.innerText)){
-                var _right = right.innerText || 0;
-                _right = Number(_right) + 1;
-                right.innerText = _right;
-                jg.innerText = "正确 ✔";
-                setTimeout(function(){
-                    jg.innerText = "";
-                    createone();
-                }, 1500);
-            }else{
-                jg.innerText = "错误 ✖";
-                setTimeout(function(){
-                    jg.innerText = "";
-                }, 3000);
-            }
-        })
-    });
-    nums.querySelector('.next').addEventListener('click', function() {
-        jg.innerText = "";
-        createone();
-    });
-    let timenum = 0;
-    setInterval(() => {
-        timenum++;
-        let _num = timenum;
-        let h = Math.floor(_num / 3600) + "";
-        _num = _num % 3600;
-        let m = Math.floor(_num / 60) + "";
-        _num = _num % 60;
-        let s = _num + "";
-        time.innerText = `${h.padStart(2,'0')}：${m.padStart(2,0)}：${s.padStart(2,0)}`;
-    }, 1000);
-})()
-</script>
+            createone();
+            nums.querySelectorAll('.num').forEach(ele => {
+                ele.addEventListener('click', function () {
+                    if (n2 == parseInt(this.innerText)) {
+                        var _right = right.innerText || 0;
+                        _right = Number(_right) + 1;
+                        right.innerText = _right;
+                        jg.innerText = "正确 ✔";
+                        setTimeout(function () {
+                            jg.innerText = "";
+                            createone();
+                        }, 1500);
+                    } else {
+                        jg.innerText = "错误 ✖";
+                        setTimeout(function () {
+                            jg.innerText = "";
+                        }, 3000);
+                    }
+                })
+            });
+            nums.querySelector('.next').addEventListener('click', function () {
+                jg.innerText = "";
+                createone();
+            });
+            let timenum = 0;
+            setInterval(() => {
+                timenum++;
+                let _num = timenum;
+                let h = Math.floor(_num / 3600) + "";
+                _num = _num % 3600;
+                let m = Math.floor(_num / 60) + "";
+                _num = _num % 60;
+                let s = _num + "";
+                time.innerText = `${h.padStart(2, '0')}：${m.padStart(2, 0)}：${s.padStart(2, 0)}`;
+            }, 1000);
+        })()
+    </script>
 </body>
+
 </html>
