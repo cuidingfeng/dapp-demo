@@ -1779,7 +1779,7 @@
         var start = function () {
             rightCode = 0;
             thisDict = getDict();
-            const mp3 = `https://img.zdic.net/audio/zd/py/${thisDict.tag}.mp3`;
+            const mp3 = `https://tts.baidu.com/text2audio?tex=${thisDict.tag}&cuid=baike&lan=ZH&ctp=1&pdt=31&vol=9&spd=4&per=4100`;
             audio.setAttribute('src', mp3);
             audio.play();
             audioInter = setInterval(() => {
