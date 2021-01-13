@@ -1792,6 +1792,12 @@
             zi.innerHTML = getdom(ziList);
             py.innerHTML = getdom(pyList);
             total.innerText = ++totalNum;
+            py.querySelectorAll('span').forEach(span => {
+                if (span.innerText === thisDict.tag) {
+                    span.className = "right";
+                    setClickNum('right');
+                }
+            })
         }
         var setClickNum = function (status) {
             if (status === 'right') {
